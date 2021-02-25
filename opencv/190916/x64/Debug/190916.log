@@ -1,0 +1,4 @@
+﻿  10.background subtraction.cpp
+c:\users\am325\desktop\3학년 2학기\영상비전처리\190916\190916\10.background subtraction.cpp(26): warning C4101: 'keyboard' :참조되지 않은 지역 변수입니다.
+  190916.vcxproj -> C:\Users\am325\Desktop\3학년 2학기\영상비전처리\190916\x64\Debug\190916.exe
+  190916.vcxproj -> C:\Users\am325\Desktop\3학년 2학기\영상비전처리\190916\x64\Debug\190916.pdb (Full PDB)
