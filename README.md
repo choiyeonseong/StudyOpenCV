@@ -1,1 +1,1 @@
-# studyOpenCV
+# StudyOpenCV
